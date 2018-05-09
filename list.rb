@@ -3,8 +3,10 @@ require_relative "item"
 class List
 	attr_accessor :items
 
-	def initialize(items = [])
+	def initialize(name, items = [])
+		@name = name
 		@items = items
+
 	end
 
 	def add(item)
