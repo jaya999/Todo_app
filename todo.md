@@ -1,0 +1,5 @@
+- [ ] Learn Numbers
+- [x] Learn strings
+- [x] Learn Variables
+- [x] Learn Hash
+- [ ] Learn Methods
